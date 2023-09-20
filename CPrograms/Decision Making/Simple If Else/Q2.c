@@ -1,0 +1,1 @@
+//2.WAP to calculate total amount if purchase amount is greater than 1500 then discount is Rs. 200.
